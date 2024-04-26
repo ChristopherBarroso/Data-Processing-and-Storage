@@ -1,4 +1,4 @@
-## Code Environment Setup
+### Code Environment Setup
 
 ### Requirements
 - Java JDK 11 (or higher)
@@ -16,7 +16,7 @@
 
 4. Clone the Repository to continue your own work
 
-Assignment Summary
+### Assignment Summary
 
 I like this assignment because it is getting more familiar with interfaces in Java, and I also like the freedom where we can choose any language. 
 However, I do feel that the assignment lacks details on what is being graded which makes me weary of my final project. 
